@@ -1,0 +1,24 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = T3xMUUTO Vue 4
+
+## Skin
+
+### Label
+label4056.text = T3xMUUTO Vue 4
+
+## Media
+
+### Title
+panorama_FB559648_ECEA_EF6D_41EC_08A810280D85.label = 03_238xMUUTO_img3
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture
